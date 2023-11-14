@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/dsalgo/ds"
-)
+import "github.com/lost0nearth/dsalgo/ds"
 
 func main() {
 	l := &ds.List[int]{}
